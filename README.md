@@ -1,4 +1,4 @@
 # Tejas
 IIIT Sricity
 
-# hello friends
+# Hello Friends
